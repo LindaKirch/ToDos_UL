@@ -1,0 +1,29 @@
+html {
+    background-color: #F0F0F0  ;
+    font-family:sans-serif;
+}
+
+h1 {
+    font-size:72px;
+    line-height: 50%;
+    text-align:center;
+    color:  #A0A0A0	;
+}
+
+
+li {
+
+    
+}
+
+li:before{
+    
+}
+.box {
+    border:3px solid green;
+    border-top: 20px solid green;
+    padding-left: 0%;
+}
+.text {
+    font-style:italic;
+}
